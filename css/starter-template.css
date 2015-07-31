@@ -1,0 +1,22 @@
+body {
+  padding-top: 30px;
+}
+.starter-template {
+  
+  padding: 40px 15px;
+  text-align: justify;
+}
+
+#myTable{
+        position: absolute;
+        left:20px;
+        top: 250px;
+        width:48%;
+          }
+                #myTable2{
+                 position: absolute;
+                 right: 20px;
+                 top: 250px;
+                 width: 48% ;
+                }
+  
